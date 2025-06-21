@@ -13,7 +13,7 @@ export default defineConfig({
     preview: {
     host: '0.0.0.0',
     port: 7168,
-    allowedHosts: [''], 
+    allowedHosts: ['e-commerce-dashbord.onrender.com'], 
   },
   resolve: {
     alias: {
